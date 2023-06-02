@@ -66,17 +66,17 @@ We welcome contributions to CoBuild and appreciate your interest in improving th
 
 We believe that collaboration is crucial for creating the best possible product, and we look forward to your contributions to make CoBuild even better.
 
-### Technologies Used
+## Technologies Used
 
 CoBuild utilizes a range of technologies to deliver a seamless and engaging user experience:
 
-  JavaScript: The primary programming language for both frontend and backend development. <br>
-  HTML: Used for creating the structure and content of web pages. <br>
-  CSS: Used for styling and layout of the application. <br>
-  MongoDB: A NoSQL database used to store user profiles, job postings, and assessment data. <br>
-  Node.js: A JavaScript runtime environment that enables server-side execution. <br>
-  Express.js: A web application framework for Node.js, used to build the backend API. <br>
-  Postman: A popular API development and testing tool used to ensure the smooth functioning of the API endpoints. <br>
+- JavaScript: The primary programming language for both frontend and backend development.
+- HTML: Used for creating the structure and content of web pages.
+- CSS: Used for styling and layout of the application.
+- MongoDB: A NoSQL database used to store user profiles, job postings, and assessment data.
+- Node.js: A JavaScript runtime environment that enables server-side execution.
+- Express.js: A web application framework for Node.js, used to build the backend API.
+- Postman: A popular API development and testing tool used to ensure the smooth functioning of the API endpoints.
 
 We believe that this combination of technologies provides a robust and efficient foundation for CoBuild, ensuring a seamless user experience and reliable performance.
 
