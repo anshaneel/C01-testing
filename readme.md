@@ -23,7 +23,7 @@ Once you have the prerequisites in place, follow these steps to build and run th
 
 2. Navigate to the project directory in your terminal:
 
-cd CoBuild
+        cd CoBuild
 
 3. Install the necessary dependencies by running the following command:
 
