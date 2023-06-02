@@ -13,11 +13,10 @@ The motivation behind CoBuild stems from the recognition of the challenges faced
 
 ## Installation
 
-
 To run CoBuild, please ensure that you have the following tools/programs installed:
 
-   Node.js: Version 12.0 or above
-   MongoDB: Installed and running on your local machine
+   - Node.js: Version 12.0 or above
+   - MongoDB: Installed and running on your local machine
 
 Once you have the prerequisites in place, follow these steps to build and run the project:
 
