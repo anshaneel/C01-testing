@@ -42,7 +42,7 @@ Once you have the prerequisites in place, follow these steps to build and run th
         http://localhost:3000
 
 
-### Contribution
+## Contribution
 
 We welcome contributions to CoBuild and appreciate your interest in improving the application. Here are some guidelines for contributing:
 
