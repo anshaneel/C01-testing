@@ -82,5 +82,5 @@ We believe that this combination of technologies provides a robust and efficient
 
 Thank you for your interest in CoBuild, and we hope that our application empowers you on your job search journey!
 
-### Figma:
-https://www.figma.com/file/nWgzvMeogFUnPn5Y2Gvg7A/CoBuild?type=design&node-id=1647%3A17907&t=ay7ZFd2ppIkiJYms-1
+## Figma:
+        https://www.figma.com/file/nWgzvMeogFUnPn5Y2Gvg7A/CoBuild?type=design&node-id=1647%3A17907&t=ay7ZFd2ppIkiJYms-1
