@@ -48,7 +48,9 @@ We welcome contributions to CoBuild and appreciate your interest in improving th
 
   Git Flow: CoBuild follows the Feature Branch workflow. When contributing, create a new branch for your feature or bug fix. <br>
   
-  ### Branch Naming: Please use descriptive and meaningful names for your branches, summarizing the purpose of your changes. <br>
+  ### Branch Naming: 
+  Please use descriptive and meaningful names for your branches, summarizing the purpose of your changes. <br>
+  
    1. Main Branch: This branch typically holds the stable and production-ready code. It is often named "main" or "master" branch, depending on the version control system being used.
 
    2. Developmental Branch: This branch serves as a staging area for ongoing development work. It may be named "development" or "dev" branch.
@@ -61,6 +63,7 @@ We welcome contributions to CoBuild and appreciate your interest in improving th
       
 ### Issue Tracking: 
    We use GitHub Issues to track bugs, feature requests, and other tasks. Please check the existing issues or create a new one before starting your work. <br>
+   
 ### Pull Requests: 
    Once you have completed your changes, submit a pull request against the main branch. Another member on the team will review the changes and provide feedback before merging. <br>
 
