@@ -1,9 +1,4 @@
-# final-project-s23-p-pioneers
-
-
 # CoBuild: The Ultimate Developer Job Board!
-
-### Brief Description
 
 CoBuild is a comprehensive web application for developers that serves as a robust job board. Its primary goal is to revolutionize the job application process by introducing an innovative approach to candidate assessment. CoBuild achieves this by integrating coding assessment questions and job posting descriptions, empowering users to tackle coding problems directly aligned with specific job opportunities. By providing this feature, candidates can accurately evaluate their skills, benchmark their performance against other applicants, and gain valuable insights to enhance their chances of achieving success. Additionally, CoBuild caters to recruiters by presenting a curated selection of qualified candidates who possess the ideal skills and qualifications to fulfill the specific requirements of their projects or products.
 
