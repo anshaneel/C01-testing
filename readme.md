@@ -46,8 +46,10 @@ We welcome contributions to CoBuild and appreciate your interest in improving th
 
    5. Bug Fix Branches: Similar to feature branches, bug fix branches are created to address specific issues or bugs. These branches can be named with a prefix like "bugfix/" followed by a descriptive name or reference to the bug being fixed. For instance, a bug fix branch for resolving a login issue could be named "bugfix/login-issue".
       
-#### Issue Tracking: We use GitHub Issues to track bugs, feature requests, and other tasks. Please check the existing issues or create a new one before starting your work. <br>
-#### Pull Requests: Once you have completed your changes, submit a pull request against the main branch. Another member on the team will review the changes and provide feedback before merging. <br>
+#### Issue Tracking: 
+   We use GitHub Issues to track bugs, feature requests, and other tasks. Please check the existing issues or create a new one before starting your work. <br>
+#### Pull Requests: 
+   Once you have completed your changes, submit a pull request against the main branch. Another member on the team will review the changes and provide feedback before merging. <br>
 
 We believe that collaboration is crucial for creating the best possible product, and we look forward to your contributions to make CoBuild even better.
 
