@@ -27,7 +27,7 @@ Once you have the prerequisites in place, follow these steps to build and run th
 
 3. Install the necessary dependencies by running the following command:
 
-npm install
+        npm install
 
 ### Contribution
 
