@@ -19,7 +19,7 @@ Once you have the prerequisites in place, follow these steps to build and run th
 
         git clone https://github.com/username/CoBuild.git
 
-Replace `username` with the actual GitHub username or organization name.
+        Replace `username` with the actual GitHub username or organization name.
 
 2. Navigate to the project directory in your terminal:
 
