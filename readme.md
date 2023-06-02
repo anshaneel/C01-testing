@@ -16,10 +16,10 @@ The motivation behind CoBuild stems from the recognition of the challenges faced
 Once you have the prerequisites in place, follow these steps to build and run the project:
 
 1. Clone the CoBuild repository from GitHub:
+        Replace `username` with the actual GitHub username or organization name.
 
         git clone https://github.com/username/CoBuild.git
 
-        Replace `username` with the actual GitHub username or organization name.
 
 2. Navigate to the project directory in your terminal:
 
