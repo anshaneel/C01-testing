@@ -13,19 +13,20 @@ The motivation behind CoBuild stems from the recognition of the challenges faced
 
 ## Installation
 
-To run CoBuild, please ensure that you have the following tools/programs installed:
-
-   - Node.js: Version 12.0 or above
-   - MongoDB: Installed and running on your local machine
-
 Once you have the prerequisites in place, follow these steps to build and run the project:
 
-  Clone the CoBuild repository from GitHub. <br>
-  Navigate to the project directory in your terminal. <br>
-  Run the command npm install to install the necessary dependencies. <br>
-  Configure the MongoDB connection settings in the .env file. <br>
-  Run the command npm start to start the application. <br>
-  Access the CoBuild web application by opening your browser and visiting http://localhost:3000. <br>
+1. Clone the CoBuild repository from GitHub:
+git clone https://github.com/username/CoBuild.git
+
+Replace `username` with the actual GitHub username or organization name.
+
+2. Navigate to the project directory in your terminal:
+
+cd CoBuild
+
+3. Install the necessary dependencies by running the following command:
+
+npm install
 
 ### Contribution
 
