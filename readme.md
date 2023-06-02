@@ -28,6 +28,19 @@ Once you have the prerequisites in place, follow these steps to build and run th
 3. Install the necessary dependencies by running the following command:
 
         npm install
+        
+4. Configure the MongoDB connection settings in the .env file. Create the file if it doesn't exist, and set the appropriate values. For example:
+
+        MONGODB_URI=mongodb://localhost:27017/cobuild
+        
+5. Start the application by executing the following command:
+        
+        npm start
+       
+6. Access the CoBuild web application by opening your browser and visiting 
+
+        http://localhost:3000
+
 
 ### Contribution
 
