@@ -13,7 +13,8 @@ CoBuild is a comprehensive web application for developers that serves as a robus
 ### Motivation
 
 The motivation behind CoBuild stems from the recognition of the challenges faced by job seekers in the competitive employment landscape. Traditional job boards often lack interactivity and fail to provide meaningful feedback on candidates' technical skills. CoBuild aims to bridge this gap by combining the familiarity of job postings with the rigor of coding challenges. This unique approach helps candidates better understand the requirements of potential employers and empowers them to improve their skills accordingly.
-Installation
+
+### Installation
 
 To run CoBuild, please ensure that you have the following tools/programs installed:
 
